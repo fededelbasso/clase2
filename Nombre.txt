@@ -3,7 +3,13 @@ Leonel
 Juan
 Raul
 Luna
+Nicolas
+Quebin
 Kevin
 Nicolas
 sole
+<<<<<<< HEAD
 Fede
+=======
+error
+>>>>>>> dfa6c1fd0736c95bb8a40e27b7173a698ab8facf
